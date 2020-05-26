@@ -6,9 +6,12 @@
     <title>@ViewData["Title"] - CSS_Grid_Practice</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+     <link rel="stylesheet" href="~/css/cssgridlayout.css" />
 </head>
 <body>
     <header>
+        <div class="containerIndex">
+    <div class="item item1 header">header
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-grey border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">CSS_Grid_Practice</a>
@@ -28,18 +31,27 @@
                 </div>
             </div>
         </nav>
-    </header>
-    <div class="container">
+        </div>
+    </header>   
+</div>
+
+
+    <div class="item item1 sidebar">sidebar</div>
+    <div class="item item1 content-1">content-1 
+         <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
+        
     </div>
+    </div>
+    <div class="item item1 content-2">content-2</div>
+    <div class="item item1 content-3">content-3</div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
+    <div class="item item1 footer1">footer
             &copy; 2020 - CSS_Grid_Practice - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
-    </footer>
+    </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
