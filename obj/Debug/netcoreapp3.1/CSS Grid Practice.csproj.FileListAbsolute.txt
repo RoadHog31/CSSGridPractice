@@ -1,0 +1,37 @@
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.exe
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.deps.json
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.runtimeconfig.json
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.runtimeconfig.dev.json
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.dll
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.pdb
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.Views.dll
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\bin\Debug\netcoreapp3.1\CSS Grid Practice.Views.pdb
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.csprojAssemblyReference.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.RazorAssemblyInfo.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.RazorAssemblyInfo.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.AssemblyInfoInputs.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.AssemblyInfo.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.TagHelpers.input.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.TagHelpers.output.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.RazorCoreGenerate.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.RazorTargetAssemblyInfo.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.RazorTargetAssemblyInfo.cs
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.Views.pdb
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\staticwebassets\CSS Grid Practice.StaticWebAssets.Manifest.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\staticwebassets\CSS Grid Practice.StaticWebAssets.xml
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.dll
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.pdb
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.genruntimeconfig.cache
+C:\Users\Stephen.P\Documents\Projects 2020~\CSS Grid Practice\obj\Debug\netcoreapp3.1\CSS Grid Practice.csproj.CopyComplete
